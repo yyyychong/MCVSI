@@ -2,7 +2,7 @@
 
 In this work, we propose a multi-directional structure and content-aware features-based visual security index (MCVSI) to perform an objective assessment on selectively encrypted images. 
 
-![1686053616632](C:\Users\13061\AppData\Roaming\Typora\typora-user-images\1686053616632.png)
+![1686053616632](https://github.com/yyyychong/MCVSI/blob/master/framework.png)
 
 ## Dataset
 
